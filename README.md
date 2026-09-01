@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🏗️ Lateral Torsional Buckling Design of Welded I-Section
+# Lateral Torsional Buckling Design of Welded I-Section
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![IRC 24](https://img.shields.io/badge/Design%20Code-IRC%2024%3A2010-orange)](#design-codes)
