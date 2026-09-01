@@ -3,8 +3,8 @@
 # 🏗️ Lateral Torsional Buckling Design of Welded I-Section
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![IRC 456](https://img.shields.io/badge/Design%20Code-IS%20456%3A2000-orange)](#design-codes)
-[![IS 800](https://img.shields.io/badge/Design%20Code-IS%20456%3A2000-orange)](#design-codes)
+[![IRC 24](https://img.shields.io/badge/Design%20Code-IRC%2024%3A2010-orange)](#design-codes)
+[![IS 800](https://img.shields.io/badge/Design%20Code-IS%20800%3A2007-orange)](#design-codes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python IDE](https://img.shields.io/badge/IDE-Python%20IDE-3776AB?logo=python&logoColor=white)](https://www.onlineide.pro/playground/python?utm_source=online-python&utm_medium=navbar&utm_campaign=onlineidepro)
 
