@@ -164,14 +164,14 @@ The program considers a welded asymmetric I-section:
                  TOP FLANGE
         ┌─────────────────────────┐
         │                         │
-        └──────────┬──────────────┘
-                   │
-                   │
-                   │
-                   │  WEB
-                   │
-                   │
-        ┌──────────┴──────────────┐
+        └──────────┬──┬───────────┘
+                   │  │
+                   │  │
+                   │  │
+                   │  │ WEB
+                   │  │
+                   │  │
+        ┌──────────┴──┴───────────┐
         │                         │
         └─────────────────────────┘
               BOTTOM FLANGE
@@ -523,7 +523,7 @@ This makes it easy to understand the reduction in bending capacity caused by lat
 Run the Python script:
 
 ```bash
-python ltb_design.py
+python i-section.py
 ```
 
 The program will interactively request the section dimensions and design parameters.
@@ -644,7 +644,8 @@ Default:
 ```text
 ltb-design-welded-i-section/
 │
-├── 📄 ltb_design.py
+├── 📁 I-SECTION/
+│   └── 📄 i-section.py
 ├── 📄 README.md
 ├── 📄 LICENSE
 ├── 📄 requirements.txt
@@ -729,14 +730,15 @@ Python 3.x
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Arvind Singh Rawat**
-Bridge Design Engineer | Structural Engineer
+**Arvind Singh Rawat**  
+Bridge Design Engineer | RCC • PSC • Steel Structures
 
-📧 `arvindrawat400@gmail.com`
+Structural engineering tools and automation for practical bridge and structural design workflows.
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/arvindrawat400/?utm_source=chatgpt.com)
+- LinkedIn: [linkedin.com/in/arvindrawat400](https://www.linkedin.com/in/arvindrawat400/)
+- Email: [arvindrawat400@gmail.com](mailto:arvindrawat400@gmail.com)
 
 ---
 
@@ -751,12 +753,10 @@ If you find this tool useful for steel and bridge design:
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project can be distributed under the **MIT License**.
-
-If using the MIT License, add a `LICENSE` file to the root of the repository and include the full license text.
-
+This project can be released under the **MIT License**. Add the full [MIT License](LICENSE) file to the repository before publishing under MIT.
+---
 ---
 
 <div align="center">
